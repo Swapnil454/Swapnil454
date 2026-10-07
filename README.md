@@ -49,22 +49,6 @@ Besides developing, I also write blogs at
 
 <br />
 
-## 📈 GitHub Statistics
+## 📊 Statistics
+[![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=Swapnil454&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-
-<a href="https://github.com/Swapnil454">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Swapnil454&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  />
-</a>
-
-<a href="https://github.com/Swapnil454">
-  <img
-    height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil454&theme=github-dark&hide_border=true"
-  />
-</a>
-
-</div>
