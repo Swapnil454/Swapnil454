@@ -1,60 +1,34 @@
-# 👋 Hello!
+[![Header](https://res.cloudinary.com/vtnw7yan/image/upload/v1791370058/swapnil-github-bannerr_sm0dhd.webp?raw=true "Header")](https://res.cloudinary.com/vtnw7yan/image/upload/v1791370058/swapnil-github-bannerr_sm0dhd.webp)
 
-I'm **Swapnil Shelke**, a Full-Stack Engineer focused on building
-high-performance, scalable web platforms and production-ready systems.
+## 👋 Hey! 
+Software Engineer with close to 6 months of experience leading end-to-end delivery of enterprise-grade web, mobile, and API platforms, from R&D and architecture to deployment automation and production support. Translates business requirements into scalable, maintainable systems and takes full ownership to ship faster than expected across startup, enterprise, and agency environments.
 
-I enjoy working across the entire stack — from frontend architecture
-and backend systems to authentication, databases, DevOps and deployment.
-
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Engineer
-- 🏗️ Building scalable web platforms
-- ⚡ Strong focus on performance and architecture
-- 🔐 Authentication & backend systems
-- ☁️ Deployment, Docker & production infrastructure
-- 🌐 Building real-world products and developer tools
-
----
+## 📚 Writing
+Besides developing, I also write Blogs [RavenWrite Systems](https://www.joinvarta.com/blogs).
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&color=informational&logo=tailwindcss)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&color=informational&logo=express)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=informational&logo=mongodb)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&color=informational&logo=mysql)
+![](https://img.shields.io/badge/Code-Prisma-informational?style=flat&color=informational&logo=prisma)
+![](https://img.shields.io/badge/Code-Redis-informational?style=flat&color=informational&logo=redis)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,prisma,redis,docker,nginx,git,github,linux" />
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+![](https://img.shields.io/badge/Tool-NGINX-informational?style=flat&color=warning&logo=nginx)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=warning&logo=git)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&color=warning&logo=github)
+![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&color=warning&logo=linux)
+![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&color=warning&logo=kubernetes)
 
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ BitForge
-
-Developer-focused platform for building and managing modern applications.
-
-🔗 https://bitforge.in
-
----
-
-### 📊 Rating App
-
-Full-stack rating platform with authentication, role-based access,
-OTP verification, dashboards and rating analytics.
-
-🔗 https://ratingapp.online
-
----
-
-### 🌐 Agency Platform
-
-Modern web platform focused on digital products and services.
-
-🔗 https://joinvarta.com
-
----
 
 ## 📈 GitHub Statistics
 
@@ -66,55 +40,3 @@ Modern web platform focused on digital products and services.
 
 </div>
 
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil454&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swapnil454&theme=github_dark" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/swapnil-shelke-178096366">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://bitforge.in">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://joinvarta.com">
-<img src="https://img.shields.io/badge/JoinVarta-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Currently Building
-
-```text
-Frontend        → React / Next.js / TypeScript
-Backend         → Node.js / Express
-Database        → MongoDB / MySQL / Prisma
-Infrastructure  → Docker / NGINX
-Realtime        → Socket.IO / Redis
-Authentication  → JWT / OTP / Email
-Deployment      → Production-ready cloud infrastructure
