@@ -15,8 +15,6 @@ Software Engineer with close to 6 months of experience leading end-to-end delive
 Besides developing, I also write blogs at
 [**RavenWright Systems**](https://www.joinvarta.com/blogs).
 
-<br />
-
 ## 🛠️ Technologies & Tools
 
 ### 💻 Development
